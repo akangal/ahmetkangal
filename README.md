@@ -37,3 +37,9 @@ Currently, I am engineering the locomotion and mechatronics systems for **Turkey
 * **Email:** ahmetmustafakangal@gmail.com
 
 ![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=akangal&show_icons=true&theme=radical)
+
+## 📂 Repository Structure
+* `/media`: Media files from personal/industrial/academic projects.
+* `/project_codes`: Python/C++ codes for personal/industrial/academic projects.
+* `/docs`: Diverse of documents regarding to my projects
+
