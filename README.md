@@ -33,7 +33,7 @@ Currently, I am engineering the locomotion and mechatronics systems for **Turkey
 ---
 
 ### 📫 Contact
-* **LinkedIn:** [[Your LinkedIn URL]](https://www.linkedin.com/in/ahmet-mustafa-kangal/)
+* **LinkedIn:** https://www.linkedin.com/in/ahmet-mustafa-kangal/
 * **Email:** ahmetmustafakangal@gmail.com
 
 ![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=akangal&show_icons=true&theme=radical)
