@@ -1,0 +1,16 @@
+docks:
+  home_dock:
+    type: "nova_carter_dock"
+    frame: "map"
+    pose: [-2.0, 0.0, 0.0]
+    id: "0"
+  charging_dock:
+    type: "nova_carter_dock"
+    frame: "map"
+    pose: [2.0, 0.0, 0.0]
+    id: "9"
+  ad_dock:
+    type: "nova_carter_dock"
+    frame: "map"
+    pose: [-2.0, 0.0, 0.0]
+    id: "14"
